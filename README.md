@@ -1,5 +1,7 @@
 # Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24015364.svg)](https://doi.org/10.5281/zenodo.24015364)
+
 Code and data for the paper by Nick Howgrave-Graham (IACR ePrint, November 2026; link to follow).
 
 Dubiner's bucketing codes, used as *type-class filters* on the representation coordinates, let a merge in a
@@ -90,12 +92,24 @@ The raw outputs of the cloud optimisation runs (`cloud/results/`, about 21 MB of
 The best points from those runs are included.
 
 ## Citation
+Release v1.0 matches the first ePrint version of the paper and is archived on Zenodo as
+[doi:10.5281/zenodo.24015365](https://doi.org/10.5281/zenodo.24015365). The DOI for all versions is
+[10.5281/zenodo.24015364](https://doi.org/10.5281/zenodo.24015364).
+
 ```bibtex
 @misc{HowgraveGraham2026filtered,
   author       = {Nick Howgrave-Graham},
   title        = {Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE},
   howpublished = {Cryptology ePrint Archive, Paper 2026/XXXX},
   year         = {2026},
+}
+@software{HowgraveGraham2026code,
+  author    = {Nick Howgrave-Graham},
+  title     = {Code and data for ``Filtered merges make deeper representation trees pay''},
+  version   = {v1.0},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.24015365},
 }
 ```
 
