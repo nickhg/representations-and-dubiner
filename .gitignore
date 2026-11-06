@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# output of the generators (set OUT=... to put it elsewhere)
+paper/
+# raw cloud optimiser results (not distributed; ~21 MB of logs available on request)
+cloud/results/
