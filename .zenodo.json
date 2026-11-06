@@ -1,0 +1,8 @@
+{
+  "title": "Code and data for \"Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE\"",
+  "upload_type": "software",
+  "description": "Model and optimisers, independent re-costers, simulations, the stored best points, and the generators that reproduce every number and table in the paper (IACR ePrint, November 2026). Dubiner's bucketing codes used as type-class filters at the merges of representation trees: random density-one Subset Sum 0.2831 -> 0.2690 (BBSS digits {-1,0,1,2}, depth 5); May's Meet-LWE on ternary keys improved by 0.013-0.023.",
+  "creators": [{"name": "Howgrave-Graham, Nick"}],
+  "license": "MIT",
+  "keywords": ["subset sum", "representation technique", "nearest-neighbour search", "Dubiner bucketing codes", "locality-sensitive filtering", "Meet-LWE", "ternary LWE", "cryptanalysis"]
+}

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Code and data for \"Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE\""
+authors:
+  - family-names: Howgrave-Graham
+    given-names: Nick
+license: MIT
+repository-code: "https://github.com/nickhg/representations-and-dubiner"
+preferred-citation:
+  type: article
+  title: "Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE"
+  authors:
+    - family-names: Howgrave-Graham
+      given-names: Nick
+  year: 2026
+  journal: "Cryptology ePrint Archive"
