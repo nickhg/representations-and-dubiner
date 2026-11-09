@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24015364.svg)](https://doi.org/10.5281/zenodo.24015364)
 
-Code and data for the paper by Nick Howgrave-Graham (IACR ePrint, November 2026; link to follow).
+Code and data for the paper by Nick Howgrave-Graham (IACR ePrint [2026/2802](https://eprint.iacr.org/2026/2802)).
 
 Dubiner's bucketing codes, used as *type-class filters* on the representation coordinates, let a merge in a
 representation tree avoid generating matched pairs with the wrong split pattern. Their main effect is that
@@ -100,8 +100,9 @@ Release v1.0 matches the first ePrint version of the paper and is archived on Ze
 @misc{HowgraveGraham2026filtered,
   author       = {Nick Howgrave-Graham},
   title        = {Filtered merges make deeper representation trees pay: Subset Sum and Meet-LWE},
-  howpublished = {Cryptology ePrint Archive, Paper 2026/XXXX},
+  howpublished = {Cryptology {ePrint} Archive, Paper 2026/2802},
   year         = {2026},
+  url          = {https://eprint.iacr.org/2026/2802},
 }
 @software{HowgraveGraham2026code,
   author    = {Nick Howgrave-Graham},
